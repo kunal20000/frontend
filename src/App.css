@@ -19,7 +19,7 @@
   width: 100%;
   background-color: skyblue;
 }
-.register{
+.register, .login{
   margin-left: 30%;
 
 }
@@ -69,4 +69,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.auth {
+display: block;
 }
